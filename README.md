@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm imnotapan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">I'm imnotapan 🧑‍💻</h1>
+<h3 align="center">A passionate full-stack and game developer from Chile</h3>
 
-- 🌱 I’m currently learning **Kotlin**
-
-- 💬 Ask me about **React, Javascript, Python, C#**
+- 💻 I domain the next technologies **React, Javascript, Python, C#**
 
 - 📫 How to reach me **imnotapan@gmail.com**
 
