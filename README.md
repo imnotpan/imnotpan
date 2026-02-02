@@ -27,6 +27,6 @@
 
 <h3>Contact</h3>
 <ul>
-  <li>Email: <a href="mailto:imnotapan@gmail.com">imnotapan@gmail.com</a></li>
-  <li>LinkedIn: <a href="[PASTE_LINKEDIN_URL]">[PASTE_LINKEDIN_URL]</a></li>
+  <li>Email: <a href="mailto:kevinmedinaa.r@gmail.com">kevinmedinaa.r@gmail.com</a></li>
+  <li>LinkedIn: <a href="www.linkedin.com/in/kevin-medina-r">www.linkedin.com/in/kevin-medina-r</a></li>
 </ul>
